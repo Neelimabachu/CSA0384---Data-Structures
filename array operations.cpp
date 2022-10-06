@@ -85,6 +85,6 @@ int main()
         printf("\t %d", a[i]);
 
     }
-   
+  
     return 0;
 }
